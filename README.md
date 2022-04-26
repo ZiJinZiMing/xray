@@ -1,6 +1,6 @@
 # xray
 
-vless://dec6b977-ff9c-4d13-ba6a-1ed637588f43@104.225.233.23:443?flow=xtls-rprx-direct&encryption=none&security=xtls&type=tcp&headerType=none&host=kkk.zhangjinming.xyz#KiwiVM
+vless://a140ba5c-c5e4-48aa-ba11-7c81dc52023d@kkk.zhangjinming.xyz:443?encryption=none&security=xtls&type=tcp&host=kkk.zhangjinming.xyz&headerType=none&sni=kkk.zhangjinming.xyz&flow=xtls-rprx-direct#kkk.zhangjinming.xyz_VLESS_XTLS/TLS-direct_TCP_a140ba5c-c5e4-48aa-ba11-7c81dc52023d
 
 
 Unity账号
